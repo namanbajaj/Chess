@@ -2,4 +2,3 @@
 
 Fully implemented chess game using ascii art, built completely from scratch using object-oriented design patterns. 
 
-Chess engine work in progress.
