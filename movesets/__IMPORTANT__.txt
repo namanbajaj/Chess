@@ -1,0 +1,2 @@
+delete this folder before submission
+sets up for each move, doesn't perform move itself
